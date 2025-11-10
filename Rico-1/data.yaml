@@ -1,0 +1,15 @@
+names:
+- button
+- icon
+- image
+- text
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: rico-c9kwc
+  url: https://universe.roboflow.com/rico-tqjvo/rico-c9kwc/dataset/1
+  version: 1
+  workspace: rico-tqjvo
+test: ../test/images
+train: ../train/images
+val: ../valid/images

@@ -1,0 +1,6 @@
+path: ./data_yolo
+train: images/train
+val: images/val
+test: images/test
+nc: 7
+names: ['button','field','heading','image','label','link','text']
